@@ -21,10 +21,7 @@ pip3 install -r requirements.txt
 
 ## Overview
 When you want to run any experiment, run:
-```bash
-cd src
-```
-and then
+
 ```bash
 python3 train_and_validate.py [ARGUMENTS]
 ```
