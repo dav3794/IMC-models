@@ -1,0 +1,35 @@
+cell_type:
+    B:
+        - CD20
+    BnT:
+        - CD20
+        - CD3
+    CD4:
+        - CD3
+        - CD4
+    CD8:
+        - CD3
+        - CD8a
+    Treg:
+        - CD3
+        - FOXP3
+    Neutrophil:
+        - CD15
+        - MPO
+    MacCD163:
+        - CD163
+    DC:
+        - CD11c
+    Tumor:
+        - Ecad
+    HLADR:
+        - HLADR
+    Mural:
+        - SMA
+        - PDGFRb
+    pDC:
+        - CD303
+    plasma:
+        - CD38
+    NK:
+        - CD7
